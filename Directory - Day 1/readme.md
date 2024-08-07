@@ -1,1 +1,1 @@
-# Basic revision and deomnstration of Python libraries! 🔮
+Basic revision and deomnstration of Python libraries! 🔮
