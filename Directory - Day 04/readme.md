@@ -1,1 +1,1 @@
-
+Learnt & worked upon different concepts of K-means Clustering such as: Manual Clustering, Automatic Clustering, 2D Clustering, Visualizing datapoints with 4-clustered data and Iterative Clustering etc. which means - improving the k-means algorithm by removing clusters, dividing clusters, and then re-clustering it again! 🔄🗾
