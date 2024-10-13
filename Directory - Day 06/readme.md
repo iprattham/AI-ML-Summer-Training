@@ -1,4 +1,4 @@
-Performed SVM concepts such as: Classification and Regression on diabetes.csv 🧬 & fish.csv 🐟, using various kernel parameters like 'linear', 'poly', and 'rbf'. Visualized the results through scatter plots, bar charts, pie charts, etc., focusing on Exploratory Data Analysis to understand patterns, feature importance, and performance across different models! 🎛️🔍	
+Performed SVM concepts such as: Classification and Regression on diabetes.csv 🧬 and fish.csv 🐟, using various kernel parameters like 'linear', 'poly', and 'rbf'. Visualized the results through scatter plots, bar charts, pie charts, etc., focusing on Exploratory Data Analysis to understand patterns, feature importance, and performance across different models! 🎛️🔍	
 
 Here,
 `ker = ['poly', 'linear', 'rbf']` represents a list of kernel types that are commonly used in Support Vector Machines (SVM) for classification or regression tasks. Here's what each kernel means:
