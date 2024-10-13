@@ -1,1 +1,1 @@
-
+Learnt & worked upon various aspects of the MNIST dataset such as: Data preprocessing, Image normalization, Generating heatmaps, Visualizing digit classifications, and Enhancing model accuracy with heatmap overlays etc., which means - analyzing patterns, identifying misclassifications, and improving the model’s performance through detailed visualization! 🔢🔥
